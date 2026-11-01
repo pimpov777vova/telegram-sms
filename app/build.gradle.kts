@@ -115,7 +115,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp-dnsoverhttps:5.3.2")
     implementation("org.conscrypt:conscrypt-android:2.5.3")
     implementation("com.google.code.gson:gson:2.13.2")
-    implementation("com.tencent:mmkv:2.3.0")
+    implementation("com.tencent:mmkv:1.3.14")
     implementation("com.github.yuriy-budiyev:code-scanner:2.1.0")
     implementation("androidx.core:core-ktx:1.17.0")
     //noinspection GradleDependency
